@@ -149,5 +149,5 @@ if __name__ == '__main__':
     gauss = gauss_method(matrix)
     print(f"Метод Якоби: {jacoby[0]}, итераций: {jacoby[1]}")
     print(f"Метод Гауса-Зейделя: {seidel[0]}, итераций: {seidel[1]}")
-    print(f"Метод Гауса: {gauss[0]}")
+    print(f"Метод Гауса: {gauss}")
 
